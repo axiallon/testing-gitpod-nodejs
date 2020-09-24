@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Axiallon NodeJS Interview Questions",
   "scripts": {
-    "test": "jest"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/dwarn-axiallon/testing-gitpod-nodejs#readme",
   "devDependencies": {
-    "jest": "^26.4.2"
+    "mocha": "^8.1.3"
   }
 }
