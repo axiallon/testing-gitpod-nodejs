@@ -1,0 +1,2 @@
+tasks:
+  - prebuild: npm install

@@ -1,0 +1,21 @@
+{
+  "name": "testing-gitpod-nodejs",
+  "version": "1.0.0",
+  "description": "Axiallon NodeJS Interview Questions",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwarn-axiallon/testing-gitpod-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwarn-axiallon/testing-gitpod-nodejs/issues"
+  },
+  "homepage": "https://github.com/dwarn-axiallon/testing-gitpod-nodejs#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
